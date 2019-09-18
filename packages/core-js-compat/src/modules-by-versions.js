@@ -11,4 +11,7 @@ module.exports = {
     'esnext.map.update-or-insert',
     'esnext.symbol.async-dispose',
   ],
+  3.3: [
+    'esnext.map.upsert',
+  ],
 };
